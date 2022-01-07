@@ -1,4 +1,4 @@
-!(java.jpeg)
+!(java.jpg)
 # unittest with Python
 
 ```python
